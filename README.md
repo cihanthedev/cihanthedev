@@ -5,7 +5,7 @@
 
 * 📍 Based in Aachen, Germany
 * 🧑‍🎓 I'm currently learning: React Router and React Testing with Jest
-* 🔭 I'm currently working on: [Jamming Spotify App](https://github.com/Cihnyilmz/jamming-spotify-app)
+* 🔭 I'm currently working on my project: [Cleva](https://github.com/Cihnyilmz/cleva)
 * ⚡ Fun fact: As a german i do not like a beer
 * 🕴️ [LinkedIn](https://www.linkedin.com/in/cihan-yilmaz-012088137/)
 
